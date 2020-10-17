@@ -1,1 +1,2 @@
-# Throwing-paper
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
